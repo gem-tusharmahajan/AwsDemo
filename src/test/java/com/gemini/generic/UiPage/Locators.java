@@ -40,7 +40,7 @@ public class Locators
         public static By btnCart =AppiumBy.id("com.androidsample.generalstore:id/appbar_btn_cart");
         public static By checkBox=AppiumBy.xpath("//android.widget.CheckBox");
         public static By website=AppiumBy.xpath("//android.widget.Button[text(),'Visit to the website to complete purchase']");
-        public static By airJordan=AppiumBy.xpath("(//android.widget.LinearLayout//android.widget.TextView[@resource-id='com.androidsample.generalstore:id/productAddCart'])[2]");
+        public static By airJordan=AppiumBy.xpath("//android.widget.RelativeLayout[1]/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.TextView[2]");
         public static By websiteName=AppiumBy.id("com.androidsample.generalstore:id/btnProceed");
         public static By link= By.xpath("(//*[@class='q8U8x MBeuO ynAwRc oewGkc LeUQr'])[1]");
         public static By googleSearch =By.name("q");

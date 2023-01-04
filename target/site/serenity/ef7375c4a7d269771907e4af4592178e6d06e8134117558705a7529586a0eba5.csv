@@ -1,6 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Search using Emulator","Perform swipe function","SUCCESS","2022-12-20T12:01:43.353+05:30[Asia/Calcutta]","0.0","43.56"
-"Search using Emulator","Perform dropdown function","SUCCESS","2022-12-20T12:04:02.958+05:30[Asia/Calcutta]","0.0","38.75"
-"Search using Emulator","Perform Scroll function","SUCCESS","2022-12-20T12:04:44.174+05:30[Asia/Calcutta]","0.0","28.07"
-"Search using Emulator","Check the toast text","SUCCESS","2022-12-20T12:05:12.812+05:30[Asia/Calcutta]","0.0","28.64"
-"Search using Emulator","Check drag and drop","SUCCESS","2022-12-20T12:05:42.06+05:30[Asia/Calcutta]","0.0","23.85"

@@ -231,7 +231,7 @@ public void drop()
 
     public void openJordanRetro()
     {
-            waitABit(2000);
+            waitABit(5000);
             MobileAction.click(Locators.airJordan,"ADD TO CART");
     }
     public void Add_item_to_cart()
